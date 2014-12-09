@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/esf-clear.png</file>
+        <file>images/esf-clear-hover.png</file>
+        <file>images/esf-search.png</file>
+        <file>images/esf-clear-active.png</file>
+        <file>images/esf-border.png</file>
+    </qresource>
+</RCC>
